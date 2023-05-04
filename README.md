@@ -1,4 +1,4 @@
-# logica-condicional
+# Logica-Condicional
 Esse repositório é de teoria e exercícios de lógica condicional e seus operadores, lógicos e relacionais.
 
 ## Operadores Relacionais
