@@ -1,5 +1,5 @@
 # logica-condicional
-Esse repositório é sobre exercícios de lógica Condicional
+Esse repositório é de teoria e exercícios de lógica condicional e seus operadores, lógicos e relacionais.
 
 ## Operadores Relacionais
 Os operadores relacionais são usados para comparar valores em expressões booleanas. Quando comparados, eles retornam um valor booleano true ou false.
