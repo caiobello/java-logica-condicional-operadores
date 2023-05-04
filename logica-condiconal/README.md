@@ -18,7 +18,3 @@ Os operadores lógicos são usados para combinar expressões booleanas e retorna
 || (OU lógico): retorna verdadeiro se pelo menos uma das expressões booleanas for verdadeira.<br>
 ^ (OU exclusivo): retorna verdadeiro se uma e somente uma das expressões booleanas for verdadeira.<br>
 ! (NÃO lógico): retorna verdadeiro se a expressão booleana for falsa e vice-versa.<br>
-
-## Controle de FLuxo
-
-## Blocos
