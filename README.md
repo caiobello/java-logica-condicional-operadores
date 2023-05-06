@@ -16,7 +16,7 @@ Os operadores relacionais são usados para comparar valores e retornar um result
 
 Os operadores lógicos são usados para combinar expressões booleanas e retornar um resultado booleano. Os operadores lógicos suportados em Java são:
 
-&& (E lógico): retorna verdadeiro se ambas as expressões booleanas forem verdadeiras.
-|| (OU lógico): retorna verdadeiro se pelo menos uma das expressões booleanas for verdadeira.
-^ (OU exclusivo): retorna verdadeiro se uma e somente uma das expressões booleanas for verdadeira.
-! (NÃO lógico): retorna verdadeiro se a expressão booleana for falsa e vice-versa.
+&& (E lógico): retorna verdadeiro se ambas as expressões booleanas forem verdadeiras.<br>
+|| (OU lógico): retorna verdadeiro se pelo menos uma das expressões booleanas for verdadeira.<br>
+^ (OU exclusivo): retorna verdadeiro se uma e somente uma das expressões booleanas for verdadeira.<br>
+! (NÃO lógico): retorna verdadeiro se a expressão booleana for falsa e vice-versa.<br>
